@@ -1,0 +1,32 @@
+# Los Angeles, CA Violations
+# --------------------------
+#Code|      Description                      |  Ordinance    | Fine  | Pen1  | Pen2  | Image | Markings | Print | ValidLoc |             Message                 | Pen3  | Pen4 |      Title      |
+# [0]|          [1]                          |    [2]        |  [3]  |  [4]  |  [5]  |  [6]  |   [7]    |  [8]  |   [9]    |               [10]                  | [11]  | [12] |       [13]      |
+03   |   FIRE HYDRANT                        |               |$50.00 |
+28   |   HANDICAP RAMP                       |               |$50.00 |
+26   |   NO PARKING DURING SNOW EMERGENCY    |               |$30.00 |
+04   |   WITHIN INTERSECTION                 |               |$30.00 |
+09   |   CROSSWALK OR SIDEWALK               |               |$30.00 |
+29   |   RESIDENT PARKING ONLY               |               |$30.00 |
+30   |   PARKLAND                            |               |$30.00 |
+02   |   DOUBLE PARKING                      |               |$25.00 |
+05   |   SNOW REMOVAL CLEANING MAINTENANCE   |               |$25.00 |
+06   |   OBSTRUCTING PUBLIC TRANSPORTATION   |               |$25.00 |
+07   |   FIRE STATION EXIT OR ENTRANCE       |               |$25.00 |
+08   |   RAILROAD OR STREET RAILWAY CROSSING |               |$25.00 |
+10   |   BUS OR TRACKLESS TROLLEY STOP       |               |$25.00 |
+14   |   RESTRICTED AREA                     |               |$25.00 |
+11   |   WRONG DIRECTION                     |               |$25.00 |
+12   |   EMERGENCY AREAS                     |               |$25.00 |
+13   |   BRIDGE VIADUCT UNDERPASS TUNNEL     |               |$25.00 |
+31   |   TRAVEL LANE                         |               |$25.00 |
+15   |   OBSTRUCTING DRIVEWAY                |               |$15.00 |
+16   |   OBSTRUCTING TRAFFIC CONTROL SIGNAL  |               |$15.00 |
+17   |   NO PASSING ZONE                     |               |$15.00 |
+18   |   LESS THAN TEN FEET                  |               |$15.00 |
+19   |   ANGEL PARKING                       |               |$15.00 |
+20   |   ANGLE PARKING ONLY                  |               |$15.00 |
+21   |   ONE FOOT FROM CURB                  |               |$15.00 |
+22   |   LOADING ZONE                        |               |$15.00 |
+23   |   ANGLE PARKING OR UNLOADING          |               |$15.00 |
+27   |   HANDICAP PARKING                    |               |$100.00|
